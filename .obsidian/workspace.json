@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
+                "file": "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
+                "file": "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
+                "file": "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md"
+                "file": "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "a9100ff795d46b1b",
   "lastOpenFiles": [
-    "I. Wprowadzenie do Zabbix/1. Przegląd platformy Zabbix, jej historii i celów.md",
-    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu..md",
-    "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
     "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian..md",
+    "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
+    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu..md",
+    "II. Instalacja Zabbix/5. Logowanie do interfejsu sieciowego serwera.md",
+    "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
+    "I. Wprowadzenie do Zabbix/1. Przegląd platformy Zabbix, jej historii i celów.md",
     "III. Instalacja klienta/4. Instalacja klienta Windows.md",
     "Z. Old/IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji..md",
     "Z. Old/II. Instalacja Zabbix/5. Logowanie do interfejsu sieciowego serwera..md",
@@ -173,8 +175,6 @@
     "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/9. Zarządzanie uprawnieniami.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/8. Zarządzanie użytkownikami i grupami użytkowników.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera",
     "V. Tworzenie alertów i przegląd monitoringu",
     "III. Instalacja klienta",
