@@ -11,11 +11,9 @@
             "id": "a9100ff795d46b1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230615145406.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
+                "file": "Pasted image 20230615145406.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
+                "file": "Pasted image 20230615145406.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md"
+                "file": "Pasted image 20230615145406.png"
               }
             }
           }
@@ -148,9 +146,10 @@
   },
   "active": "a9100ff795d46b1b",
   "lastOpenFiles": [
+    "Pasted image 20230615170928.png",
     "Pasted image 20230615145406.png",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
     "III. Instalacja klienta/3. Instalacja klienta Windows.md",
     "Pasted image 20230615144937.png",
     "III. Instalacja klienta/1. Instalacja i konfiguracja klienta na systemach Ubuntu i Debian.md",
