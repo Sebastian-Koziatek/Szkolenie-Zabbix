@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md"
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md"
               }
             }
           }
@@ -148,13 +148,25 @@
   },
   "active": "a9100ff795d46b1b",
   "lastOpenFiles": [
-    "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian..md",
-    "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
-    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu..md",
+    "Pasted image 20230615145406.png",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
+    "III. Instalacja klienta/3. Instalacja klienta Windows.md",
+    "Pasted image 20230615144937.png",
+    "III. Instalacja klienta/1. Instalacja i konfiguracja klienta na systemach Ubuntu i Debian.md",
     "II. Instalacja Zabbix/5. Logowanie do interfejsu sieciowego serwera.md",
+    "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
+    "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
+    "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian.md",
+    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu.md",
     "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
     "I. Wprowadzenie do Zabbix/1. Przegląd platformy Zabbix, jej historii i celów.md",
-    "III. Instalacja klienta/4. Instalacja klienta Windows.md",
+    "grafiki/2360122_39a6_7.jpg",
+    "grafiki",
+    "III. Instalacja klienta/2. Instalacja i konfiguracja klienta na systemach CentOS i RHEL.md",
+    "III. Instalacja klienta/1. Logowanie do interfejsu sieciowego serwera.md",
+    "grafiki/1568783122053.png",
+    "grafiki/zabbix-monitoring-in-5-pictures-2-638.webp",
     "Z. Old/IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji..md",
     "Z. Old/II. Instalacja Zabbix/5. Logowanie do interfejsu sieciowego serwera..md",
     "Z. Old/II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika..md",
@@ -168,13 +180,6 @@
     "VI. Dokumentacja i materiały dodatkowe/1. Przegląd i omówienie dokumentacji i materiałów oficjalnych.md",
     "V. Tworzenie alertów i przegląd monitoringu/6. Synchronizacja Zabbix z Grafana.md",
     "VI. Dokumentacja i materiały dodatkowe",
-    "V. Tworzenie alertów i przegląd monitoringu/5. Instalacja systemu wizualizacji monitoringu (Grafana).md",
-    "V. Tworzenie alertów i przegląd monitoringu/4. Monitoring oparty na logach.md",
-    "V. Tworzenie alertów i przegląd monitoringu/3. Tworzenie i przygotowanie szablonów monitoringu.md",
-    "V. Tworzenie alertów i przegląd monitoringu/2. Tworzenie wykresów.md",
-    "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/9. Zarządzanie uprawnieniami.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/8. Zarządzanie użytkownikami i grupami użytkowników.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera",
     "V. Tworzenie alertów i przegląd monitoringu",
     "III. Instalacja klienta",
@@ -182,7 +187,6 @@
     "I. Wprowadzenie do Zabbix",
     "Z. Old",
     "Z. Old/VI. Dokumentacja i materiały dodatkowe",
-    "Z. Old/V. Tworzenie alertów i przegląd monitoringu",
-    "Z. Old/IV. Zarządzanie i konfiguracja zasobami serwera"
+    "Z. Old/V. Tworzenie alertów i przegląd monitoringu"
   ]
 }
