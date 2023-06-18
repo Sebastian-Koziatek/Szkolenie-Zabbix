@@ -11,9 +11,11 @@
             "id": "a9100ff795d46b1b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IV_1_latest_data.png"
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV_1_latest_data.png",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV_1_latest_data.png",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV_1_latest_data.png"
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md"
               }
             }
           }
@@ -144,31 +146,38 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "ac63750521e5e038",
+  "active": "a9100ff795d46b1b",
   "lastOpenFiles": [
+    "Pasted image 20230618184543.png",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/3. Tworzenie grup hostów.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
-    "IV_1_latest_data.png",
+    "III. Instalacja klienta/1. Instalacja i konfiguracja klienta na systemach Ubuntu i Debian.md",
+    "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
+    "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian.md",
+    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu.md",
+    "Pasted image 20230618151450.png",
+    "Pasted image 20230618151427.png",
+    "Pasted image 20230618151019.png",
+    "Pasted image 20230618145131.png",
+    "Pasted image 20230618144935.png",
+    "Pasted image 20230618144854.png",
+    "Pasted image 20230618144451.png",
+    "Pasted image 20230618132857.png",
+    "Pasted image 20230618132237.png",
+    "Pasted image 20230618131940.png",
+    "V. Tworzenie alertów i przegląd monitoringu/2. Tworzenie wykresów.md",
+    "V. Tworzenie alertów i przegląd monitoringu/3. Tworzenie i przygotowanie szablonów monitoringu.md",
+    "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
     "I. Wprowadzenie do Zabbix/3. Tworzenie wirtualnej maszyny.md",
     "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
     "I. Wprowadzenie do Zabbix/1. Przegląd platformy Zabbix, jej historii i celów.md",
-    "Pasted image 20230618092023.png",
     "III. Instalacja klienta/3. Instalacja klienta Windows.md",
-    "III. Instalacja klienta/1. Instalacja i konfiguracja klienta na systemach Ubuntu i Debian.md",
     "III. Instalacja klienta/2. Instalacja i konfiguracja klienta na systemach CentOS i RHEL.md",
-    "monitoring_hosts.png",
-    "Pasted image 20230615144937.png",
-    "Pasted image 20230617182857.png",
-    "Pasted image 20230617182934.png",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
     "II. Instalacja Zabbix/5. Logowanie do interfejsu webowego serwera.md",
-    "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
     "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
-    "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian.md",
-    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu.md",
-    "Pasted image 20230617182822.png",
-    "Pasted image 20230617181233.png",
-    "Pasted image 20230617131634.png",
-    "Pasted image 20230617131631.png",
     "grafiki",
     "III. Instalacja klienta/1. Logowanie do interfejsu sieciowego serwera.md",
     "Z. Old/IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji..md",
@@ -176,12 +185,6 @@
     "Z. Old/II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika..md",
     "Z. Old/II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS, RHEL..md",
     "Z. Old/II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu, Debian..md",
-    "Z. Old/II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu..md",
-    "Z. Old/I. Wprowadzenie do Zabbix/3. Podstawowe pojęcia dla systemu monitoringu Zabbix..md",
-    "Z. Old/I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie..md",
-    "Z. Old/I. Wprowadzenie do Zabbix/1. Przegląd platformy Zabbix, jej historii i celów..md",
-    "VI. Dokumentacja i materiały dodatkowe/2. Rozszerzenia dostępne dla systemu Zabbix.md",
-    "VI. Dokumentacja i materiały dodatkowe/1. Przegląd i omówienie dokumentacji i materiałów oficjalnych.md",
     "VI. Dokumentacja i materiały dodatkowe",
     "IV. Zarządzanie i konfiguracja zasobami serwera",
     "V. Tworzenie alertów i przegląd monitoringu",
