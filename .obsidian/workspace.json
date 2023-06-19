@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md"
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "a327a5d72ac74c49",
   "lastOpenFiles": [
+    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/3. Tworzenie grup hostów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md",
+    "Pasted image 20230619220147.png",
+    "Pasted image 20230619215938.png",
     "Pasted image 20230619215324.png",
     "Pasted image 20230619215150.png",
     "Pasted image 20230619215021.png",
@@ -156,14 +163,6 @@
     "Pasted image 20230619214508.png",
     "Pasted image 20230619214313.png",
     "Pasted image 20230619214207.png",
-    "Pasted image 20230619214049.png",
-    "Pasted image 20230619214003.png",
-    "Pasted image 20230619184525.png",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/3. Tworzenie grup hostów.md",
     "II. Instalacja Zabbix/5. Logowanie do interfejsu webowego serwera.md",
     "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
     "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
