@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a9d711429b4fb026",
+    "id": "b0346efa85909c9d",
     "type": "split",
     "children": [
       {
-        "id": "ebae6ed90598dc6f",
+        "id": "1d939d38a6ee90a5",
         "type": "tabs",
         "children": [
           {
-            "id": "a9100ff795d46b1b",
+            "id": "a327a5d72ac74c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
+                "file": "III. Instalacja klienta/3. Instalacja klienta Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e06a5407c5f5373e",
+    "id": "d990a59d7355ce29",
     "type": "split",
     "children": [
       {
-        "id": "751df80bb80d283b",
+        "id": "782438e309e9bf54",
         "type": "tabs",
         "children": [
           {
-            "id": "ac63750521e5e038",
+            "id": "41c4ce9cb9b2cca6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "95450bdba8ffa1b0",
+            "id": "667a913bc446768c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ecfa1f1ba378c3f4",
+            "id": "6e0c0e0f54565f7e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 509.5
   },
   "right": {
-    "id": "ea586915d587b57f",
+    "id": "0b7e16aaf284cc78",
     "type": "split",
     "children": [
       {
-        "id": "1bc2dacc590a6397",
+        "id": "1e0415424f4a4a94",
         "type": "tabs",
         "children": [
           {
-            "id": "75ac6c5a369e6418",
+            "id": "d88944d0e8ee355e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
+                "file": "III. Instalacja klienta/3. Instalacja klienta Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "ab3eae147ff63f51",
+            "id": "93029edb4210b7bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
+                "file": "III. Instalacja klienta/3. Instalacja klienta Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "286f7b396536c7e4",
+            "id": "489a700032da1013",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "9a9143df14c3bf95",
+            "id": "413621d8ea2f2738",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md"
+                "file": "III. Instalacja klienta/3. Instalacja klienta Windows.md"
               }
             }
           }
@@ -146,52 +146,33 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "a9100ff795d46b1b",
+  "active": "a327a5d72ac74c49",
   "lastOpenFiles": [
+    "grafiki/Windows_client.png",
+    "Windows_client.png",
+    "I. Wprowadzenie do Zabbix/3. Tworzenie wirtualnej maszyny.md",
+    "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
     "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian.md",
-    "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
+    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu.md",
+    "Serwer_wymagania.png",
+    "grafiki/Serwer_wymagania.png",
+    "II. Instalacja Zabbix/5. Logowanie do interfejsu webowego serwera.md",
     "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
+    "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/8. Zarządzanie użytkownikami i grupami użytkowników.md",
-    "Pasted image 20230618203555.png",
-    "Pasted image 20230618203551.png",
-    "Pasted image 20230618203408.png",
-    "Pasted image 20230618203232.png",
-    "Pasted image 20230618203223.png",
-    "Pasted image 20230618202833.png",
-    "Pasted image 20230618201939.png",
+    "grafiki/users_8.png",
+    "users_8.png",
+    "grafiki/users_7.png",
+    "users_7.png",
+    "grafiki/users_6.png",
+    "users_6.png",
+    "grafiki/users_5.png",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
-    "Pasted image 20230618200712.png",
-    "Pasted image 20230618200653.png",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/3. Tworzenie grup hostów.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md",
-    "V. Tworzenie alertów i przegląd monitoringu/2. Tworzenie wykresów.md",
-    "Pasted image 20230618191000.png",
-    "III. Instalacja klienta/1. Instalacja i konfiguracja klienta na systemach Ubuntu i Debian.md",
-    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu.md",
-    "V. Tworzenie alertów i przegląd monitoringu/3. Tworzenie i przygotowanie szablonów monitoringu.md",
-    "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
-    "I. Wprowadzenie do Zabbix/3. Tworzenie wirtualnej maszyny.md",
-    "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
-    "I. Wprowadzenie do Zabbix/1. Przegląd platformy Zabbix, jej historii i celów.md",
-    "III. Instalacja klienta/3. Instalacja klienta Windows.md",
-    "III. Instalacja klienta/2. Instalacja i konfiguracja klienta na systemach CentOS i RHEL.md",
-    "II. Instalacja Zabbix/5. Logowanie do interfejsu webowego serwera.md",
-    "grafiki",
-    "III. Instalacja klienta/1. Logowanie do interfejsu sieciowego serwera.md",
-    "Z. Old/IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji..md",
-    "Z. Old/II. Instalacja Zabbix/5. Logowanie do interfejsu sieciowego serwera..md",
-    "VI. Dokumentacja i materiały dodatkowe",
-    "IV. Zarządzanie i konfiguracja zasobami serwera",
-    "V. Tworzenie alertów i przegląd monitoringu",
-    "III. Instalacja klienta",
-    "II. Instalacja Zabbix",
-    "I. Wprowadzenie do Zabbix",
-    "Z. Old",
-    "Z. Old/VI. Dokumentacja i materiały dodatkowe",
-    "Z. Old/V. Tworzenie alertów i przegląd monitoringu"
+    "grafiki/start_24.png.md"
   ]
 }
