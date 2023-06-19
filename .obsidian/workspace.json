@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "III. Instalacja klienta/3. Instalacja klienta Windows.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "III. Instalacja klienta/3. Instalacja klienta Windows.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "III. Instalacja klienta/3. Instalacja klienta Windows.md",
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "III. Instalacja klienta/3. Instalacja klienta Windows.md"
+                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md"
               }
             }
           }
@@ -148,31 +148,41 @@
   },
   "active": "a327a5d72ac74c49",
   "lastOpenFiles": [
-    "grafiki/Windows_client.png",
-    "Windows_client.png",
-    "I. Wprowadzenie do Zabbix/3. Tworzenie wirtualnej maszyny.md",
-    "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
-    "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian.md",
-    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu.md",
-    "Serwer_wymagania.png",
-    "grafiki/Serwer_wymagania.png",
+    "Pasted image 20230619215324.png",
+    "Pasted image 20230619215150.png",
+    "Pasted image 20230619215021.png",
+    "Pasted image 20230619214919.png",
+    "Pasted image 20230619214605.png",
+    "Pasted image 20230619214508.png",
+    "Pasted image 20230619214313.png",
+    "Pasted image 20230619214207.png",
+    "Pasted image 20230619214049.png",
+    "Pasted image 20230619214003.png",
+    "Pasted image 20230619184525.png",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/7. Ekrany monitoringu i pulpity nawigacyjne.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/3. Tworzenie grup hostów.md",
     "II. Instalacja Zabbix/5. Logowanie do interfejsu webowego serwera.md",
     "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
     "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/8. Zarządzanie użytkownikami i grupami użytkowników.md",
-    "grafiki/users_8.png",
-    "users_8.png",
-    "grafiki/users_7.png",
-    "users_7.png",
-    "grafiki/users_6.png",
-    "users_6.png",
-    "grafiki/users_5.png",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/3. Tworzenie grup hostów.md",
+    "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
     "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
-    "grafiki/start_24.png.md"
+    "V. Tworzenie alertów i przegląd monitoringu/2. Tworzenie wykresów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/8. Zarządzanie użytkownikami i grupami użytkowników.md",
+    "V. Tworzenie alertów i przegląd monitoringu/6. Synchronizacja Zabbix z Grafana.md",
+    "V. Tworzenie alertów i przegląd monitoringu/5. Instalacja systemu wizualizacji monitoringu (Grafana).md",
+    "V. Tworzenie alertów i przegląd monitoringu/4. Monitoring oparty na logach.md",
+    "V. Tworzenie alertów i przegląd monitoringu/3. Tworzenie i przygotowanie szablonów monitoringu.md",
+    "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/9. Zarządzanie uprawnieniami.md",
+    "III. Instalacja klienta/2. Instalacja i konfiguracja klienta na systemach CentOS i RHEL.md",
+    "III. Instalacja klienta/1. Instalacja i konfiguracja klienta na systemach Ubuntu i Debian.md",
+    "III. Instalacja klienta/3. Instalacja klienta Windows.md",
+    "I. Wprowadzenie do Zabbix/3. Tworzenie wirtualnej maszyny.md",
+    "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
+    "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu.md"
   ]
 }
