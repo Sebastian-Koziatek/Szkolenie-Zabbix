@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
+                "file": "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
+                "file": "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
+                "file": "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md"
+                "file": "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md"
               }
             }
           }
@@ -146,31 +146,31 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "a327a5d72ac74c49",
+  "active": "41c4ce9cb9b2cca6",
   "lastOpenFiles": [
-    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/3. Tworzenie grup hostów.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
-    "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/8. Zarządzanie użytkownikami, grupami użytkowników i uprawnieniami.md",
     "V. Tworzenie alertów i przegląd monitoringu/2. Grafana.md",
-    "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
-    "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
-    "III. Instalacja klienta/1. Instalacja i konfiguracja klienta na systemach Ubuntu i Debian.md",
-    "IV. Zarządzanie i konfiguracja zasobami serwera/7. Pulpity nawigacyjne.md",
-    "III. Instalacja klienta/3. Instalacja klienta Windows.md",
+    "V. Tworzenie alertów i przegląd monitoringu/1. Tworzenie i zarządzanie elementami monitoringu.md",
+    "VI. Dokumentacja i materiały dodatkowe/1. Przegląd i omówienie dokumentacji i materiałów oficjalnych.md",
+    "VI. Dokumentacja i materiały dodatkowe/2. Rozszerzenia dostępne dla systemu Zabbix.md",
     "III. Instalacja klienta/2. Instalacja i konfiguracja klienta na systemach CentOS i RHEL.md",
+    "III. Instalacja klienta/3. Instalacja klienta Windows.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/1. Podstawowa konfiguracji systemu i przejrzenie dostępnych opcji.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/2. Tworzenie elementów hosta, przyłączanie hostów do serwera.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/7. Pulpity nawigacyjne.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/6. Konfiguracja podstawowych kanałów komunikacji.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/5. Monitorowanie podstawowych zasobów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/8. Zarządzanie użytkownikami, grupami użytkowników i uprawnieniami.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/3. Tworzenie grup hostów.md",
+    "IV. Zarządzanie i konfiguracja zasobami serwera/4. Zarządzanie triggerami klientów.md",
+    "II. Instalacja Zabbix/4. Instalacja i konfiguracja baz danych, tworzenie bazy, tworzenie użytkownika.md",
     "II. Instalacja Zabbix/5. Logowanie do interfejsu webowego serwera.md",
+    "III. Instalacja klienta/1. Instalacja i konfiguracja klienta na systemach Ubuntu i Debian.md",
+    "II. Instalacja Zabbix/2. Konfiguracja repozytoriów i instalacja serwera na systemach Ubuntu i Debian.md",
     "II. Instalacja Zabbix/1. Omówienie roli serwera w budowaniu systemu monitoringu.md",
     "II. Instalacja Zabbix/3. Konfiguracja repozytoriów i instalacja serwera na systemach CentOS i RHEL.md",
     "I. Wprowadzenie do Zabbix/3. Tworzenie wirtualnej maszyny.md",
     "I. Wprowadzenie do Zabbix/2. Omówienie systemów monitoringu i ich roli w firmie.md",
     "I. Wprowadzenie do Zabbix/1. Przegląd platformy Zabbix, jej historii i celów.md",
-    "VI. Dokumentacja i materiały dodatkowe/1. Przegląd i omówienie dokumentacji i materiałów oficjalnych.md",
-    "VI. Dokumentacja i materiały dodatkowe/2. Rozszerzenia dostępne dla systemu Zabbix.md",
     "grafiki/item_01.png",
     "grafiki/slack_info.png",
     "grafiki/media_12.png",
